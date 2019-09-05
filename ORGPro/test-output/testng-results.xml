@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11856" started-at="2019-09-05T06:14:04Z" finished-at="2019-09-05T06:14:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11856" started-at="2019-09-05T06:14:04Z" finished-at="2019-09-05T06:14:16Z">
+      <class name="ORG.ORGPro.LoginTest">
+        <test-method status="PASS" signature="BLanuch()[pri:0, instance:ORG.ORGPro.LoginTest@3d74bf60]" name="BLanuch" is-config="true" duration-ms="9172" started-at="2019-09-05T06:14:04Z" finished-at="2019-09-05T06:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BLanuch -->
+        <test-method status="PASS" signature="f()[pri:0, instance:ORG.ORGPro.LoginTest@3d74bf60]" name="f" duration-ms="2636" started-at="2019-09-05T06:14:13Z" finished-at="2019-09-05T06:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- ORG.ORGPro.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
